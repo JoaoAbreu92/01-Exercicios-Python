@@ -5,7 +5,7 @@ n1 = input('Qual o primeiro aluno: ')
 n2 = input('Qual o segundo aluno: ')
 n3 = input('Qual o terceiro aluno: ')
 n4 = input('Qual o quarto aluno: ')
-
+#choice = escolher
 lista = [n1, n2, n3, n4]
 escolhido = choice(lista)
 
